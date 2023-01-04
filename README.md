@@ -1,9 +1,9 @@
 <ins>IBM HR Analytics Employee Attrition Modeling</ins>
-Information
+<ins>Information</ins>
 IBM is an American MNC operating in around 170 countries with major business vertical as computing, software, and hardware.
 Attrition is a major risk to service-providing organizations where trained and experienced people are the assets of the company. The organization would like to identify the factors which influence the attrition of employees.
 
-Data Dictionary
+<ins>Data Dictionary</ins>
 1. Age: Age of employee
 2. Attrition: Employee attrition status
 3. Department: Department of work
@@ -18,7 +18,7 @@ Data Dictionary
 12. WorkLifeBalance: 1-Bad; 2-Good; 3-Better; 4-Best;
 13. YearsAtCompany: Current years of service in IBM
 
-Analysis Task:
+<ins>Analysis Task:</ins>
 1. Import attrition dataset and import libraries such as pandas, matplotlib.pyplot, numpy, and seaborn.
 2. Exploratory data analysis
     1. Find the age distribution of employees in IBM
@@ -28,7 +28,7 @@ Analysis Task:
     5. Give a bar chart for the number of married and unmarried employees
     6. Build up a logistic regression model to predict which employees are likely to attrite.
 
-Technology
+<ins>Technology</ins>
 1. Python with some required libraries on Jupyter notebook.
 
 
